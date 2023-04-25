@@ -1,0 +1,61 @@
+﻿<cas:serviceResponse xmlns:cas='http://www.yale.edu/tp/cas'>
+	<cas:authenticationSuccess>
+		<cas:user>0121900111122</cas:user>
+
+		<cas:attributes>
+
+			<cas:UNIT_ID>A000</cas:UNIT_ID>
+
+			<cas:ID_NUMBER>0121900111122</cas:ID_NUMBER>
+
+			<cas:USER_SEX>1</cas:USER_SEX>
+
+			<cas:CARD_TYPE_NAME>居民身份证</cas:CARD_TYPE_NAME>
+
+			<cas:SPECIALTY_NAME>水泥工程</cas:SPECIALTY_NAME>
+
+			<cas:CARD_TYPE>1</cas:CARD_TYPE>
+
+			<cas:ID_TYPE>1</cas:ID_TYPE>
+
+			<cas:EMAIL>xxxx@email.com</cas:EMAIL>
+
+			<cas:CASSCHOOLCERTIFY>11111</cas:CASSCHOOLCERTIFY>
+
+			<cas:REMEMBERME>false</cas:REMEMBERME>
+
+			<cas:CLASS_ID>400A201903</cas:CLASS_ID>
+
+			<cas:CLASS_NAME>水泥1902</cas:CLASS_NAME>
+
+			<cas:SNO>299333</cas:SNO>
+
+			<cas:UNIT_NAME>水泥工程学院</cas:UNIT_NAME>
+
+			<cas:LOGINWITHCAS>1</cas:LOGINWITHCAS>
+
+			<cas:USER_SEX_NAME>男</cas:USER_SEX_NAME>
+
+			<cas:CARDNO>266333</cas:CARDNO>
+
+			<cas:USER_NAME>水泥战士</cas:USER_NAME>
+
+			<cas:SPECIALTY_ID>417B</cas:SPECIALTY_ID>
+
+			<cas:ID_TYPE_NAME>本科生</cas:ID_TYPE_NAME>
+
+			<cas:GRADE>2019</cas:GRADE>
+
+			<cas:ZGH>0121900111122</cas:ZGH>
+
+			<cas:CARD_ID>400001200013324444</cas:CARD_ID>
+
+			<cas:MOBILE>12233334444</cas:MOBILE>
+
+			<cas:checkAliveTicket>TGT-0121900111122-1111111-AAAABBBBCCCCDDDDEEEE-tpass</cas:checkAliveTicket>
+		</cas:attributes>
+
+
+
+	</cas:authenticationSuccess>
+</cas:serviceResponse>

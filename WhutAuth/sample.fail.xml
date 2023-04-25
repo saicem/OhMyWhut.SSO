@@ -1,0 +1,5 @@
+﻿<cas:serviceResponse xmlns:cas='http://www.yale.edu/tp/cas'>
+	<cas:authenticationFailure code='INVALID_TICKET'>
+		未能够识别出目标 &#039;ST-1111111-AAAABBBBCCCCDDDDEEEE-tpass&#039;票根
+	</cas:authenticationFailure>
+</cas:serviceResponse>
